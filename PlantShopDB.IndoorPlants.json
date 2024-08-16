@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65b98b55d2b0a621a51bb4da"
+  },
+  "name": "Monstera Deliciosa",
+  "price": 30,
+  "description": "Large tropical leaves with unique cutouts.",
+  "image": "https://m.media-amazon.com/images/I/61jU1g78gqL.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b98b7dd2b0a621a51bb4dc"
+  },
+  "name": "Snake Plant",
+  "price": 25,
+  "description": "Tall, slender leaves with a striking pattern.",
+  "image": "https://m.media-amazon.com/images/I/41ZDuP7R95S.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b98b90d2b0a621a51bb4de"
+  },
+  "name": "Fiddle-Leaf Fig",
+  "price": 40,
+  "description": "Tall and dramatic with violin-shaped leaves.",
+  "image": "https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_fiddle-leaf-fig_charcoal-e1652800894846.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b98ba5d2b0a621a51bb4e0"
+  },
+  "name": "Peace Lily",
+  "price": 20,
+  "description": "Small white flowers and glossy green leaves.",
+  "image": "https://www.mydomaine.com/thmb/N3StDx3PyGbF0Pwafv-P9-qiNZU=/900x0/filters:no_upscale():strip_icc()/1566417254329_20190821-1566417255317-b9314f1d9f7a4668a466c5ffb1913a8f.jpg"
+},
+{
+  "_id": {
+    "$oid": "65b98bbdd2b0a621a51bb4e2"
+  },
+  "name": "Spider Plant",
+  "price": 15,
+  "description": "Long, narrow leaves with spider-like growth habits.",
+  "image": "https://cdn11.bigcommerce.com/s-r932bs4ubb/images/stencil/original/products/5710/6411/plb409-gr_zoom__34521.1619269233.jpg?c=1"
+}]

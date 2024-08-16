@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c0"
+  },
+  "user_id": "user1",
+  "name": "فاطمة",
+  "email": "fatima@example.com",
+  "password": "securePassword1",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at ": null
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c1"
+  },
+  "user_id": "user2",
+  "name": "محمد",
+  "email": "mohammad@example.com",
+  "password": "securePassword2",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at": null
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c2"
+  },
+  "user_id": "user3",
+  "name": "عائشة",
+  "email": "aisha@example.com",
+  "password": "securePassword3",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at": null
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c3"
+  },
+  "user_id": "user4",
+  "name": "يوسف",
+  "email": "youssef@example.com",
+  "password": "securePassword4",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at": null
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c4"
+  },
+  "user_id": "user5",
+  "name": "ليلى",
+  "email": "layla@example.com",
+  "password": "securePassword5",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at": null
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c5"
+  },
+  "user_id": "user6",
+  "name": "علي",
+  "email": "ali@example.com",
+  "password": "securePassword6",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at": null
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c6"
+  },
+  "user_id": "user7",
+  "name": "زينب",
+  "email": "zeinab@example.com",
+  "password": "securePassword7",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c7"
+  },
+  "user_id": "user8",
+  "name": "مريم",
+  "email": "maryam@example.com",
+  "password": "securePassword8",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at": null
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c8"
+  },
+  "user_id": "user9",
+  "name": "أحمد",
+  "email": "ahmad@example.com",
+  "password": "securePassword9",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at": null
+},
+{
+  "_id": {
+    "$oid": "65b462232b9351d0c3d374c9"
+  },
+  "user_id": "user10",
+  "name": "سارة",
+  "email": "sarah@example.com",
+  "password": "securePassword10",
+  "created_at": {
+    "$date": "2024-01-27T01:53:39.784Z"
+  },
+  "updated_at": null
+}]

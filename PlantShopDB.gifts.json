@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65bffd26334cd878622b36d9"
+  },
+  "image": "https://floward.imgix.net/web/Files/thumPro/db6dd3ea-fd66-4e4c-9d89-7eefc7c9b7c9.jpg?w=600&auto=format",
+  "name": "Red Blooms Bouquet",
+  "desc": "A bouquet of 25 breathtaking red roses, elegantly hand-tied and wrapped in chic black paper. The bouquet exudes a sense of sophistication and class",
+  "price": "200"
+},
+{
+  "_id": {
+    "$oid": "65bfff69334cd878622b36da"
+  },
+  "image": "https://floward.imgix.net/web/Files/thumPro/03a97733-d7db-4574-8370-57cfc93bf8e4.jpg?w=600&auto=format",
+  "name": "Roses Esperance",
+  "desc": "A bouquet of 20 Esperance roses in white wrapping is a beautiful and thoughtful gift. Esperance roses are known for their long-lasting blooms and sweet fragrance",
+  "price": "250"
+},
+{
+  "_id": {
+    "$oid": "65c00023334cd878622b36db"
+  },
+  "image": "https://floward.imgix.net/web/Files/thumPro/637740419972714873.jpg?w=600&auto=format",
+  "name": "Yellow Roses",
+  "desc": "A bouquet of 35 yellow roses can be a cheerful and sunny gift for someone on their special occasion. Yellow roses are often associated with friendship, joy, and happiness",
+  "price": "150"
+},
+{
+  "_id": {
+    "$oid": "65c00197334cd878622b36de"
+  },
+  "image": "https://floward.imgix.net/web/Files/thumPro/637579603855328159.jpg?w=600&auto=format",
+  "name": "Roses and Carnations Bouquet",
+  "desc": "This bouquet is perfect for a variety of occasions, such as birthdays, anniversaries, or even just as a thoughtful gesture to brighten someone's day",
+  "price": "240"
+},
+{
+  "_id": {
+    "$oid": "65c00287334cd878622b36df"
+  },
+  "image": "https://floward.imgix.net/web/Files/thumPro/aec43007-4e21-41e5-b4eb-899eea45b639.jpg?w=600&auto=format",
+  "name": "Tranquillity",
+  "desc": "Discover pure elegance with our Tranquillity This exquisite arrangement combines 25 White Roses, 10 White Baby Roses, and lush Green Ruscus",
+  "price": "310"
+}]

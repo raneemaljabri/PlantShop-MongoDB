@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65bfe0a3ff764dfe0a28c2a8"
+  },
+  "name": "Ancient Greek Vase",
+  "description": "A beautifully preserved piece of Classical Greek pottery, featuring intricate mythological scenes.",
+  "price": 450,
+  "image": "https://images-na.ssl-images-amazon.com/images/I/818XuURRYdL._AC_SL1500_.jpg",
+  "material": "Clay"
+},
+{
+  "_id": {
+    "$oid": "65bfe185ff764dfe0a28c2a9"
+  },
+  "name": "Modern Ceramic Vase",
+  "description": "A sleek, contemporary vase with a minimalist design, perfect for modern homes.",
+  "price": 70,
+  "image": "https://th.bing.com/th/id/R.b4f0c67761484cb03a712a6032abcd0b?rik=eGqosX556kILNQ&pid=ImgRaw&r=0",
+  "material": "Ceramic"
+},
+{
+  "_id": {
+    "$oid": "65bfe1bcff764dfe0a28c2aa"
+  },
+  "name": "Rustic Terracotta Pot",
+  "description": "This rustic vase brings a touch of the Mediterranean to any room, ideal for both indoor and outdoor use.",
+  "price": 35,
+  "image": "https://th.bing.com/th/id/R.6670e15282d02039de4457319fcd3e3c?rik=yKZV8hxSDv0vZA&pid=ImgRaw&r=0",
+  "material": "Terracotta"
+},
+{
+  "_id": {
+    "$oid": "65bfe204ff764dfe0a28c2ab"
+  },
+  "name": "Elegant Porcelain Vase",
+  "description": "An elegant vase that showcases the fine craftsmanship of traditional porcelain artistry.",
+  "price": 120,
+  "image": "https://ae01.alicdn.com/kf/HTB1YuBOLVXXXXbUXFXXq6xXFXXXR/Blue-and-White-Porcelain-Chinese-Elegant-Round-Tabletop-Vase-with-Floral-Pattern-Decoration-ZDV-M003QH01.jpg",
+  "material": "Porcelain"
+},
+{
+  "_id": {
+    "$oid": "65bfe243ff764dfe0a28c2ac"
+  },
+  "name": "Vintage Brass Vase",
+  "description": "A unique vintage vase that adds a touch of timeless elegance and charm to any collection.",
+  "price": 75,
+  "image": "https://img1.etsystatic.com/001/1/6324681/il_fullxfull.384289465_g99s.jpg",
+  "material": "Brass"
+}]

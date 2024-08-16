@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65c15a7fc5046a91a26ee32a"
+  },
+  "user_id": {
+    "$oid": "65b462232b9351d0c3d374c0"
+  },
+  "notes": "Helpful website",
+  "rating": 4,
+  "city": "Tabuk"
+},
+{
+  "_id": {
+    "$oid": "65c17b23c5046a91a26ee34f"
+  },
+  "user_id": {
+    "$oid": "65b462232b9351d0c3d374c2"
+  },
+  "notes": "Great service",
+  "rating": 3,
+  "city": "Dammam"
+},
+{
+  "_id": {
+    "$oid": "65c17c05c5046a91a26ee351"
+  },
+  "user_id": {
+    "$oid": "65b462232b9351d0c3d374c3"
+  },
+  "notes": "Excellent",
+  "rating": 5,
+  "city": "Medina"
+},
+{
+  "_id": {
+    "$oid": "65c17c16c5046a91a26ee352"
+  },
+  "user_id": {
+    "$oid": "65b462232b9351d0c3d374c5"
+  },
+  "notes": "Outstanding experience!",
+  "rating": 5,
+  "city": "Khobar"
+}]

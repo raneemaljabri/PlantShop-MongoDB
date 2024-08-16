@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "65c1124600078ba4bdd0a2c8"
+  },
+  "name": "Orange Tree",
+  "price": 150,
+  "size": {
+    "Hight": "Hight: 200cm",
+    "Jarvolume": "Jar volume 15 liters"
+  },
+  "image": "https://cdn.salla.sa/AApPZ/L3whEzmbntM9QQY22O5Xh5PnnkHX9BuilXclnonA.png"
+},
+{
+  "_id": {
+    "$oid": "65c112a400078ba4bdd0a2ca"
+  },
+  "name": "Jacaranda",
+  "price": 50,
+  "size": {
+    "Hight": "Hight: 150cm",
+    "Jarvolume": "Jar volume: 15 liters"
+  },
+  "image": "https://cdn.salla.sa/AApPZ/M2RTBKw8R71D4pKcnFPTupZoJwGg0HtwP9dSCCr4.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c1130f00078ba4bdd0a2cd"
+  },
+  "name": "Bougainvilleaa",
+  "price": 250,
+  "size": {
+    "height": "High:100cm",
+    "jarVolume": "Jar Volume 15 liters"
+  },
+  "image": "https://cdn.salla.sa/AApPZ/lw0vYzRCbE18brbeKFhS18qz9Tgb7u5ueJ8252kk.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c1135500078ba4bdd0a2cf"
+  },
+  "name": "Hibiscus",
+  "price": 300,
+  "size": {
+    "height": "High:50cm",
+    "jarVolume": "Jar Volume 27 liters"
+  },
+  "image": "https://cdn.salla.sa/AApPZ/zyeWT6DRqLiaJ9XUnzF8Q0xdkAuutojJHiaNlLSC.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c1138700078ba4bdd0a2d1"
+  },
+  "name": "Epipremnum Aureum",
+  "price": 175,
+  "size": {
+    "height": "High:200cm",
+    "jarVolume": "Jar Volume 27 liters"
+  },
+  "image": "https://3.bp.blogspot.com/-VUPhq63_niY/VyzwRGZ-7MI/AAAAAAAAApA/GFa-ayHcUZMtv_o6pR2FF_oSHWEAYQ2HQCLcB/s1600/Scindapsus%2Baureus%2B6.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c113da00078ba4bdd0a2d3"
+  },
+  "name": "Buxus",
+  "price": 250,
+  "size": {
+    "height": "HighL: 120cm",
+    "jarVolume": "Jar volume: 50 liters"
+  },
+  "image": "https://cdn.salla.sa/AApPZ/JVhwgGsgEeBjYZP3R0Y6iwmYcnX40fzRwMFmBHZ2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c1145a00078ba4bdd0a2d5"
+  },
+  "name": "Tomato Seedlings",
+  "price": 95,
+  "size": {
+    "height": "High: 200cm",
+    "jarVolume": "Jar volume: 35 liters"
+  },
+  "image": "https://cdn.salla.sa/AApPZ/tFSXNnO9MrGQioCUR3KRheWY4oAs9nVsDe5AWavG.jpg"
+},
+{
+  "_id": {
+    "$oid": "65c114e200078ba4bdd0a2d7"
+  },
+  "name": "Washingtonia",
+  "price": 100,
+  "size": {
+    "height": "Height: 150 - 175 cm",
+    "jarVolume": "Jar volume: 35 liters"
+  },
+  "image": "https://cdn.salla.sa/AApPZ/wrUZH71WgGJjZSJRzUER7IQOYcl1U2vmDvc9ElNQ.jpg"
+}]
